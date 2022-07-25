@@ -1,0 +1,25 @@
+{
+  "name": "farmareminder",
+  "version": "0.0.1",
+  "description": "Projeto inicial de agendador de medicação e informações pessoais para compartilhamento entre cuidadores e responsáveis.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuckeer/farmaReminder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuckeer/farmaReminder/issues"
+  },
+  "homepage": "https://github.com/zuckeer/farmaReminder#readme",
+  "dependencies": {
+    "next": "^12.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
